@@ -15,15 +15,12 @@ public:
             int x=t[j]-'a';
             arr[x]--;
         }
-        int count=0;
         for(int i=0;i<26;i++){
-            if(arr[i]==0){
-                count++;
+            if(arr[i]!=0){
+                return false;
             }
         }
-        if(count!=26){
-            return false;
-        }
+        
         return true;
     }
 };
