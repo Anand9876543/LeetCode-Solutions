@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
