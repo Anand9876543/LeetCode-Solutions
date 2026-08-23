@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2784-check-if-array-is-good](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0633-sum-of-square-numbers](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
