@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2784-check-if-array-is-good](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
