@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [2784-check-if-array-is-good](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [2784-check-if-array-is-good](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## String
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [2784-check-if-array-is-good](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Math
