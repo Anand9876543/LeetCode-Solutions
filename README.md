@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0322-coin-change](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [2784-check-if-array-is-good](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0322-coin-change) |
 ## Greedy
 |  |
 | ------- |
@@ -79,4 +81,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
