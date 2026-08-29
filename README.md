@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
