@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0322-coin-change) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
