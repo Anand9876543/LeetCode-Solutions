@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3024-type-of-triangle](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Counting
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
