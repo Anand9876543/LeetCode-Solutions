@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Counting
 |  |
