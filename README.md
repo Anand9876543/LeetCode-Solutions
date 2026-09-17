@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [3024-type-of-triangle](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -232,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
