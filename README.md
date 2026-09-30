@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0724-find-pivot-index](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Memoization
 |  |
