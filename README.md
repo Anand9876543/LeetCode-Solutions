@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Geometry
 |  |
@@ -288,4 +291,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
