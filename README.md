@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -314,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
