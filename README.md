@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2784-check-if-array-is-good](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3024-type-of-triangle](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
