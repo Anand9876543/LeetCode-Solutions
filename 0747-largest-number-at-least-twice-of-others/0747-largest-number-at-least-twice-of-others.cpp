@@ -1,16 +1,19 @@
 class Solution {
 public:
     int dominantIndex(vector<int>& nums) {
-        int indx=0,a=nums[0];
+        int indx=-1,a=-1,sl=-1;
         int n=nums.size();
-        for(int i=1;i<n;i++){
+        for(int i=0;i<n;i++){
             if(a<nums[i]){
+                sl=a;
                 a=nums[i];
                 indx=i;
             }
+            else if(nums[i]>sl){
+                sl=nums[i];
+            }
         }
-        sort(nums.begin(),nums.end()); 
-        if((2*(nums[n-2]))<=(nums[n-1])){
+        if(2*sl<=a){
             return indx;
         }
         return -1;
