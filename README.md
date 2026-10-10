@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2784-check-if-array-is-good](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3024-type-of-triangle](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
+| [3536-maximum-product-of-two-digits](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3536-maximum-product-of-two-digits](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
