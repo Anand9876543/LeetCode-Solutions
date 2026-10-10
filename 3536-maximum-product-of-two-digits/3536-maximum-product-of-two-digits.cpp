@@ -3,13 +3,12 @@ public:
     int maxProduct(int n) {
         int f=0,s=0;
         while(n>0){
-            int digit=n%10;
-            if(digit>f){
+            if((n%10)>f){
                 s=f;
-                f=digit;
+                f=n%10;
             }
-            else if(digit>s){
-                s=digit;
+            else if((n%10)>s){
+                s=n%10;
             }
             n/=10;
         }
