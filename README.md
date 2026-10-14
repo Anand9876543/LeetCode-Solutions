@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1006-clumsy-factorial](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/1006-clumsy-factorial) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1006-clumsy-factorial](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/1006-clumsy-factorial) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1006-clumsy-factorial](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/1006-clumsy-factorial) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
