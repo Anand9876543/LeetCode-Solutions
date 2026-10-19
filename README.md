@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2784-check-if-array-is-good](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3024-type-of-triangle](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
