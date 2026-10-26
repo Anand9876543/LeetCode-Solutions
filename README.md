@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1539-kth-missing-positive-number](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [1539-kth-missing-positive-number](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
