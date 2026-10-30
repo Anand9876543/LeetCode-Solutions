@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0506-relative-ranks](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0724-find-pivot-index](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -354,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
