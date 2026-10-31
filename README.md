@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Greedy
