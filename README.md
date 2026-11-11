@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -362,4 +363,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Anand9876543/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
